@@ -12,7 +12,7 @@ const Countries = () => {
     },[])
     return (
         <div >
-            <h1>Welcome to countries component.</h1>
+            <h3>All Countries List.</h3>
                <div className='countries-container'>
                 {
                      countries.map(country => <Country 

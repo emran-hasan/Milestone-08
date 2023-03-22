@@ -4,7 +4,7 @@ const Country = (props) => {
     /* third ways Destructuring  */
     const {area,capital,continents,flags} =props.country
     return (
-        <div className='country'>
+        <div className='country bg-warning'>
 
             {/* First ways */}
             {/* <h3>Name: {props.name}</h3>
