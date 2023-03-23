@@ -1,0 +1,15 @@
+.countDown{
+    background-color: #b8a70e;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 30px;
+}
+.countDown p{
+    font-size: 40px;
+}
+.countDown button{
+    padding: 20px;
+    margin: 20px;
+    font-size: 30px;
+    border-radius: 20px;
+}
